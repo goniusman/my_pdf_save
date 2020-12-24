@@ -1,4 +1,4 @@
-hello dear friends, there are simple code for speed up your website. just copy and paste with creating .htacces file.
+There are simple code for speed up your website. just copy and paste with creating .htacces file.
 
 
 
